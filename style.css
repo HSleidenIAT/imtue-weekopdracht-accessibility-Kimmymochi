@@ -219,6 +219,10 @@ audio {
   line-height: 32px;
 }
 
+.comment-form label abbr {
+  color: red;
+}
+
 .comment-form input[type="submit"], .show-hide {
   background: #333;
   border: 0;
